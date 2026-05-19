@@ -45,9 +45,9 @@ The application is built using modern Android development best practices:
 3. Let Gradle sync and resolve all dependencies.
 4. Run the app on an Android Emulator or a physical device!
 
-✔️Team Members 
-   1.Yonas yirgu
-   2.Hailemeskel Getaneh
-   3.Abdurehman Seid
-   4.Dagnachew Getahun
-   5.Halid Faruk
+### ✔️Team Members 
+   1. Yonas yirgu
+   2. Hailemeskel Getaneh
+   3. Abdurehman Seid
+   4. Dagnachew Getahun
+   5. Halid Faruk
