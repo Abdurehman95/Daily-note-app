@@ -39,7 +39,7 @@ The application is built using modern Android development best practices:
 
 1. Clone or download this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Abdurehman95/Daily-note-app.git
    ```
 2. Open the project folder in **Android Studio**.
 3. Let Gradle sync and resolve all dependencies.
